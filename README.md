@@ -179,6 +179,6 @@ $ ./ngrok http -host-header=rewrite 3978
 3. Testare il bot utilizzando Telegram.
 
 ### Cloud Hosting
-1. Eseguire il deploy della web app utilizzando [uesta guida](https://docs.microsoft.com/it-it/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0&tabs=python)
+1. Eseguire il deploy della web app utilizzando [questa guida](https://docs.microsoft.com/it-it/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0&tabs=python)
 2. Assicurarsi che l'endpoint del servizio bot sia corretto (se è stato modificato). 
 3. A questo punto è possibile testare il bot utilizzando Telegram o la web chat su Azure.
